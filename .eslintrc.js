@@ -91,7 +91,7 @@ module.exports = {
         'space-before-blocks'          : 'error',
         'linebreak-style'              : [
             'error',
-            'unix',
+            'windows',
         ],
         'newline-per-chained-call'     : [
             'error',
